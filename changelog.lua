@@ -1,1 +1,0 @@
-gg.alert("▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️\n🆕 CHANGELOG :\n▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️\n🔸FIX WH 410/425\n🔸HOT! NEW COLOR\n🔸INSTRUCTIONS ADDED\n🔸1 CLICK MENU ADDED▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️\n📜 NEWS :\n▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️\nℹ️ DONT FORGET TO READ INSTRUCTIONS FOR THE BEST RESULTS AND GUIDE ℹ️\n▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️")
